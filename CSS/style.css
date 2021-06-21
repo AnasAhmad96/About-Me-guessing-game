@@ -1,0 +1,64 @@
+html {
+
+    background-image: url('https://www.designbolts.com/wp-content/uploads/2012/11/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg');
+    
+}
+
+body {
+    font-style:inherit;
+    text-decoration: navajowhite;
+    text-emphasis-style:inherit;
+    color: whitesmoke;
+    /*margin: 2em;*/
+    /*padding: 0.5em;*/
+    /*border-width:0.5em;*/
+    letter-spacing: 0.5px;
+    line-height:  1.5em;
+}
+h1{
+    text-align: center;
+    font-size: x-large;
+    background-color: black;
+}
+
+#sub0 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+
+#sub1 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+
+#sub2 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+
+#sub3 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+#sub4 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+#sub5 {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
+#sub {
+    font-size: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 20px;
+    background-color:black;
+}
