@@ -57,6 +57,11 @@ h1{
 #sub {
     font-size: 20px;
 }
+#orderlist {
+    text-align: center;
+    font-size: 20px;
+    background-color:darkslategrey;
+}
 footer {
     text-align: center;
     font-size: 20px;
