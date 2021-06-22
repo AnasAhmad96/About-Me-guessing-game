@@ -124,4 +124,4 @@ for (let index = 5; index >= 0; index--) {
         alert('ops');
     }
 }
-alert('Great work ' + userName + 'and your score is ' + score);
+alert('Great work ' + userName + ' and your score is ' + score);
