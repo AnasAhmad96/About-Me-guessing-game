@@ -5,3 +5,8 @@
 [comment]: <> (add unoreder list to my skills and training and experience)
 [comment]: <> (add 5 top movies and 5 top places end of my html code)
 [comment]: <> (add oreder list to Top 10 places and Movies)
+[comment]: <> (add guess game number using loop)
+[comment]: <> (add guess game equation using loop and array)
+[comment]: <> (add score count )
+
+
