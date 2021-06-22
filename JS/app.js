@@ -6,19 +6,31 @@ alert("take a few second to guess who i'm ");
 let userName = prompt('What is your name?');
 alert('You Are Welcom ' + userName);
 
+<<<<<<< HEAD
 
 let ans = prompt("Are you studied computer science ?");
+=======
+let ans = prompt("Are your stidied computer science  ?");
+>>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
 
 switch (ans.toLowerCase()) {
     case 'yes':
     case 'y':
+<<<<<<< HEAD
         alert('great');
         score++;
+=======
+        alert('wonderful')
+>>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
         break;
 
     case 'no':
     case 'n':
+<<<<<<< HEAD
         alert('you need more focus');
+=======
+        alert('be focus');
+>>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
         break;
 
     default:
@@ -38,7 +50,11 @@ switch (answer.toUpperCase()) {
 
     case 'NO':
     case 'N':
+<<<<<<< HEAD
         alert('you cant conitnue with us')
+=======
+        alert('you are not allowd to enter')
+>>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
         break;
 
     default:
@@ -82,7 +98,7 @@ switch (answer2.toLowerCase()) {
         alert('wrong answer');
 }
 
-let answer3 = prompt('Are you ready?')
+let answer3 = prompt('we are read !')
 
 switch (answer3.toLowerCase()) {
     case 'yes':
@@ -97,6 +113,7 @@ switch (answer3.toLowerCase()) {
         break;
 
     default:
+<<<<<<< HEAD
         alert('You Enter wrong answer');
 }
 
@@ -143,3 +160,7 @@ for (let index = 5; index>=0 ; index--) {
     }
 }
     alert('Great work ' + userName + 'and your score is ' + score);
+=======
+            alert('You Enter wrong answer');
+}
+>>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
