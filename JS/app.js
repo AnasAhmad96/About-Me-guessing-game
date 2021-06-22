@@ -1,14 +1,14 @@
-//'use strict';
+'use strict';
 
-//let score = 0;
-//alert("take a few second to guess who i'm ");
+let score = 0;
+alert("take a few second to guess who i'm ");
 
-//let userName = prompt('What is your name?');
-//alert('You Are Welcom ' + userName);
+let userName = prompt('What is your name?');
+alert('You Are Welcom ' + userName);
 
 
 
-//let ans = prompt("Are you studied computer science ?")
+let ans = prompt("Are you studied computer science ?")
 
 switch (ans.toLowerCase()) {
     case 'yes':
