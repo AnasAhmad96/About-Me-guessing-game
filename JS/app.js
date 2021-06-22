@@ -6,17 +6,17 @@ let userName = prompt('What is your name?');
 alert('You Are Welcom ' + userName)
 //console.log(userName)
 
-let ans = prompt("Are you excited to be a web developer ?");
+let ans = prompt("Are your stidied computer science  ?");
 
 switch (ans.toLowerCase()) {
     case 'yes':
     case 'y':
-        alert('you are allowed to get in')
+        alert('wonderful')
         break;
 
     case 'no':
     case 'n':
-        alert('you are not allowed to get in');
+        alert('be focus');
         break;
 
     default:
@@ -24,7 +24,7 @@ switch (ans.toLowerCase()) {
 }
 
 
-let answer = prompt('Are you feel good today');
+let answer = prompt('your age 25 ?');
 
 switch (answer.toUpperCase()){
 
@@ -35,7 +35,7 @@ switch (answer.toUpperCase()){
 
     case 'NO':
     case 'N':
-        alert('Oops')
+        alert('you are not allowd to enter')
         break;
 
      default:
@@ -77,7 +77,7 @@ switch (answer2.toLowerCase()) {
             alert('wrong answer');
 }
 
-let answer3 = prompt('Are you ready?')
+let answer3 = prompt('we are read !')
 
 switch (answer3.toLowerCase()) {
     case 'yes':
