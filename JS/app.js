@@ -6,31 +6,27 @@ alert("take a few second to guess who i'm ");
 let userName = prompt('What is your name?');
 alert('You Are Welcom ' + userName);
 
-<<<<<<< HEAD
+
 
 let ans = prompt("Are you studied computer science ?");
-=======
 let ans = prompt("Are your stidied computer science  ?");
->>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
+
 
 switch (ans.toLowerCase()) {
     case 'yes':
     case 'y':
-<<<<<<< HEAD
+
         alert('great');
         score++;
-=======
         alert('wonderful')
->>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
+
         break;
 
     case 'no':
     case 'n':
-<<<<<<< HEAD
+
         alert('you need more focus');
-=======
         alert('be focus');
->>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
         break;
 
     default:
@@ -50,11 +46,8 @@ switch (answer.toUpperCase()) {
 
     case 'NO':
     case 'N':
-<<<<<<< HEAD
         alert('you cant conitnue with us')
-=======
         alert('you are not allowd to enter')
->>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
         break;
 
     default:
@@ -113,7 +106,6 @@ switch (answer3.toLowerCase()) {
         break;
 
     default:
-<<<<<<< HEAD
         alert('You Enter wrong answer');
 }
 
@@ -145,13 +137,13 @@ alert('We will take qick quiz at math and you have 6 attempt if your answer is f
 let testanswer = prompt('what is the result for this equation (10*2/4 = "4,2,5,10")');
 let Test = [4, 2, 5, 10];
 
-for (let index = 5; index>=0 ; index--) {
+for (let index = 5; index >= 0; index--) {
     if (index == 5) {
         alert('Your answer is correct, you are great');
         score++;
         break;
     }
-    else  if (index !== 5){
+    else if (index !== 5) {
         alert('Your answer is not correct');
         testanswer = prompt('what is the result for this equation (10*2/4 = "4,2,5,10")');
     }
@@ -159,8 +151,7 @@ for (let index = 5; index>=0 ; index--) {
         alert('ops');
     }
 }
-    alert('Great work ' + userName + 'and your score is ' + score);
-=======
-            alert('You Enter wrong answer');
+alert('Great work ' + userName + 'and your score is ' + score);
+alert('You Enter wrong answer');
 }
->>>>>>> 45d3d82cbec45db8cb663d151e9c72f18211f1f9
+
