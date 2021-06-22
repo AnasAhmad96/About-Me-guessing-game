@@ -125,5 +125,4 @@ for (let index = 5; index >= 0; index--) {
     }
 }
 alert('Great work ' + userName + 'and your score is ' + score);
-}
 
