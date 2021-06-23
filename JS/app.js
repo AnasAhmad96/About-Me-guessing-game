@@ -125,3 +125,16 @@ for (let index = 5; index >= 0; index--) {
     }
 }
 alert('Great work ' + userName + ' and your score is ' + score);
+
+
+
+/*=================This code was added by the Driver (Ahmad Jaber)===========Functions Lab04*/
+
+
+let userInput = prompt('Enter your name again : ');
+
+function reply(userName){
+    return alert('welcome ' +userName);
+}
+reply(userInput);
+
