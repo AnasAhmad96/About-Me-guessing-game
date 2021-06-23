@@ -19,7 +19,7 @@ function replytoSecondQuestion() {
     switch (ans.toLowerCase()) {
         case 'yes':
         case 'y':
-            alert('great',);
+            alert('great');
             score++;
             break;
         case 'no':
@@ -97,7 +97,7 @@ function replytoFifthQuestion() {
             alert('wrong answer');
     }
 }
- replytoFifthQuestion(answer2);
+replytoFifthQuestion(answer2);
 
 
 
