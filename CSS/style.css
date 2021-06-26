@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
 html {
-
+    font-family: 'Kirang Haerang', cursive;
     background-image: url('https://www.designbolts.com/wp-content/uploads/2012/11/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg');
     
 }
@@ -15,10 +16,16 @@ body {
     letter-spacing: 0.5px;
     line-height:  1.5em;
 }
+div#img {
+    display: flex;
+    justify-content: center;
+}
 h1{
     text-align: center;
     font-size: x-large;
     background-color: black;
+    position: sticky;
+    top: 0;
 }
 
 #sub0 {
